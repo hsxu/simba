@@ -22,7 +22,7 @@ begin
   CurrentPlayer := 0;
   with Players[0] do
   begin
-    Name        := '';    //RSN
+    Name        := 'power20024'; //RSN is disabled anyways
     Pass        := '';    //Pass
     Active      := True;
   end;
