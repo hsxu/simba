@@ -1,4 +1,4 @@
 # simba
-Old color recognition macroing scripts. Looking back now, I definitely had way too many magic numbers.
+Color recognition macroing scripts with too many magic numbers, built on top of the Simba library and its functionality.
 
-Last used around mid-2013, credits to Simba and SRL for the open source software.
+Credits to Simba and SRL for the open source software.
